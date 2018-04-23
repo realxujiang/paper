@@ -45,7 +45,7 @@ GFS分布式文件系统，并非标准的Posix标准实现，GFS主要提供快
 
 使用Master->Slave设计，元数据信息主要由Master管理，这样的设计大大降低系统的实现难度。
 
-![](https://github.com/itweet/labs/raw/master/JDP/dfs/img/gfs_architecture.jpg)
+![](https://github.com/jikelab/paper/raw/master/research/img/gfs_architecture.jpg)
 
 为防止Master压力过大，限制了数据存储大量，GFS中数据存储单元使用Chunk表示，Chunk支持64M。
 
