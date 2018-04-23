@@ -14,6 +14,9 @@
 | :--- | :----: | :----: | :----: | :----: |
 | The Google File System - Research at Google | gfs | [PDF](https://research.google.com/archive/gfs-sosp2003.pdf) | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/20/distributed-file-system-design/) |  :seedling: |
 | MapReduce: Simplified Data Processing on Large Clusters    | MR      | [PDF](https://research.google.com/archive/mapreduce-osdi04.pdf)     | 无     |  待完成     |
+| Spark: Cluster Computing with Working Sets    | newMr      | [PDF](https://www.usenix.org/event/hotcloud10/tech/full_papers/Zaharia.pdf)     | 无     |  待完成     |
+| Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | 无     |  待完成     |
+| Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
 | Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | 无     |  待完成     |
 | Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 无     |  待完成     |
 | F1: A Distributed SQL Database That Scales    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf)     | 无     |  待完成     |
@@ -22,7 +25,6 @@
 | CONSENSUS: BRIDGING THEORY AND PRACTICE    | raft      | [PDF](https://ramcloud.stanford.edu/~ongaro/thesis.pdf)     | 无     |  待完成     |
 | Raft user study    | raft      | [PDF](https://ramcloud.stanford.edu/~ongaro/userstudy/)     | 无     |  待完成     |
 | Paxos Made Practical    | paxos      | [PDF](http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf)     | 无     |  待完成     |
-
 
 ## Books Research
 
@@ -33,8 +35,10 @@
 | 算法导论 | 内功 | 无 | 无 |  未完成 |
 | PostgreSQL源码技术探析    | Database      | 无    | 无     |  未完成     |
 | 人月神话    | 工程管理      | 无    | 无     |  :100:     |
-| 操作系统设计与实现    | 内功      | 无    | 无     |  未完成     |
+| 黑客与画家 | 见闻 | 无 | 无 |  :100:  |
+| 操作系统设计与实现(第三版)(上册)    | 内功      | 无    | 无     |  未完成     |
 | 程序是怎样跑起来的    | 内功      | 无    | 无     |  未完成     |
+
 
 ## Basic Algorithm
 
@@ -56,6 +60,9 @@
 | :--- | :----: | :----: | :----: | :----: |
 | 分布式系统入门课 | Distributed | [website](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15712-s12/www/syllabus.html) | 15-440 |  未完成 |
 | Distributed Systems: Principles and Paradigms    |   Distributed    | [website](http://www.cs.cmu.edu/~dga/15-440/S14/syllabus.html)    | 15-712     |  未完成     |
+| 6.824: Distributed Systems    |   Distributed    | [website](https://pdos.csail.mit.edu/6.824/)    | 54-100     |  未完成     |
+| CSE 552 Fall 2013   |   Distributed    | [website](https://courses.cs.washington.edu/courses/cse552/13au/calendar/lecturelist.html)    | 54-101     |  未完成     |
+
 
 ## Project Practice
 
