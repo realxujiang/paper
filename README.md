@@ -13,7 +13,7 @@
 | 论文 | 分类 | 地址 |  总结 | 备注 | 
 | :--- | :----: | :----: | :----: | :----: |
 | The Google File System - Research at Google | gfs | [PDF](https://research.google.com/archive/gfs-sosp2003.pdf) | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/20/distributed-file-system-design/) |  :seedling: |
-| MapReduce: Simplified Data Processing on Large Clusters    | MR      | [PDF](https://research.google.com/archive/mapreduce-osdi04.pdf)     | 无     |  待完成     |
+| MapReduce: Simplified Data Processing on Large Clusters    | MR      | [PDF](https://research.google.com/archive/mapreduce-osdi04.pdf)     | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/20/mapreduce-osdi04/)     |  :seedling:    |
 | Spark: Cluster Computing with Working Sets    | newMr      | [PDF](https://www.usenix.org/event/hotcloud10/tech/full_papers/Zaharia.pdf)     | 无     |  待完成     |
 | Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | 无     |  待完成     |
 | Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
