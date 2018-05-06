@@ -17,7 +17,7 @@
 | Spark: Cluster Computing with Working Sets    | newMr      | [PDF](https://www.usenix.org/event/hotcloud10/tech/full_papers/Zaharia.pdf)     | 无     |  待完成     |
 | Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | 无     |  待完成     |
 | Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
-| Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | 无     |  待完成     |
+| Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | ###BLOG###     |  :seedling:     |
 | Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 无     |  待完成     |
 | F1: A Distributed SQL Database That Scales    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf)     | 无     |  待完成     |
 | Spanner: Becoming a SQL System    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)     | 无     |  待完成     |
@@ -38,6 +38,7 @@
 | 黑客与画家 | 见闻 | 无 | 无 |  :100:  |
 | 操作系统设计与实现(第三版)(上册)    | 内功      | 无    | 无     |  未完成     |
 | 程序是怎样跑起来的    | 内功      | 无    | 无     |  未完成     |
+| C Primer Plus    | 内功      | 无    | 无     |  未完成     |
 
 
 ## Basic Algorithm
