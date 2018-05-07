@@ -113,6 +113,7 @@ scaling，随着tablet server从几个扩展到几十个，每个服务器的吞
 [3] [BigTable设计与实现](http://itweet.cn/blog/2018/04/23/bigtable-osdi06)
 
 欢迎关注微信公众号[Whoami]，阅读更多内容。
+
 ![Whoami公众号](https://github.com/itweet/labs/raw/master/common/img/weixin_public.gif)
 
 原创文章，转载请注明： 转载自[Itweet](http://www.itweet.cn)的博客
