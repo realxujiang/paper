@@ -15,7 +15,7 @@
 | The Google File System - Research at Google | gfs | [PDF](https://research.google.com/archive/gfs-sosp2003.pdf) | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/20/distributed-file-system-design/) |  :seedling: |
 | MapReduce: Simplified Data Processing on Large Clusters    | MR      | [PDF](https://research.google.com/archive/mapreduce-osdi04.pdf)     | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/23/mapreduce-osdi04/)     |  :seedling:    |
 | Spark: Cluster Computing with Working Sets    | newMr      | [PDF](https://www.usenix.org/event/hotcloud10/tech/full_papers/Zaharia.pdf)     | 无     |  待完成     |
-| Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | 无     |  待完成     |
+| Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | [BLOG](http://www.itweet.cn/2018/06/23/why-spark-rdd/)     |  :seedling:     |
 | Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
 | Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | [BLOG](http://itweet.cn/blog/2018/05/07/bigtable-osdi06)     |  :seedling:     |
 | Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 无     |  待完成     |
