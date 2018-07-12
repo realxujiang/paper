@@ -9,7 +9,7 @@
 ## Paper Research
 
 我计划通过顶级的论文结合大量书籍，深入理解计算机科学技术。
-
+![data-processing-at-google](https://github.com/jikelab/paper/raw/master/research/img/data-processing-at-google.png)
 | 论文 | 分类 | 地址 |  总结 | 备注 | 
 | :--- | :----: | :----: | :----: | :----: |
 | The Google File System - Research at Google | gfs | [PDF](https://research.google.com/archive/gfs-sosp2003.pdf) | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/20/distributed-file-system-design/) |  :seedling: |
