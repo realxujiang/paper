@@ -20,8 +20,7 @@
 | Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | [BLOG](http://www.itweet.cn/2018/06/23/why-spark-rdd/)     |  :seedling:     |
 | Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
 | Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | [BLOG](http://itweet.cn/blog/2018/05/07/bigtable-osdi06)     |  :seedling:     |
-| Megastore: Providing Scalable, Highly Available
-Storage for Interactive Services   | Database      | [PDF](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)     | 无     |  待完成     |
+| Megastore: Providing Scalable, Highly Available Storage for Interactive Services   | Storage      | [PDF](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)     | 无     |  待完成     |
 | Dremel: Interactive Analysis of Web-Scale Datasets    | Database      | [PDF](https://research.google.com/pubs/archive/36632.pdf)     | 无     |  待完成     |
 | Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 深奥,需细研     |  :seedling:    |
 | Colossus: storage_architecture_and_challenges    | Storage      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 无     |  待完成     |
