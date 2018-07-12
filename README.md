@@ -20,14 +20,21 @@
 | Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | [BLOG](http://www.itweet.cn/2018/06/23/why-spark-rdd/)     |  :seedling:     |
 | Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
 | Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | [BLOG](http://itweet.cn/blog/2018/05/07/bigtable-osdi06)     |  :seedling:     |
+| Megastore: Providing Scalable, Highly Available
+Storage for Interactive Services   | Database      | [PDF](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)     | 无     |  待完成     |
 | Dremel: Interactive Analysis of Web-Scale Datasets    | Database      | [PDF](https://research.google.com/pubs/archive/36632.pdf)     | 无     |  待完成     |
-| Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 无     |  待完成     |
+| Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 深奥,需细研     |  :seedling:    |
+| Colossus: storage_architecture_and_challenges    | Storage      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 无     |  待完成     |
 | F1: A Distributed SQL Database That Scales    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf)     | 无     |  待完成     |
 | Spanner: Becoming a SQL System    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46103.pdf)     | 无     |  待完成     |
 | The Raft Consensus Algorithm    | raft      | [PDF](https://raft.github.io/raft.pdf)     | 无     |  待完成     |
 | CONSENSUS: BRIDGING THEORY AND PRACTICE    | raft      | [PDF](https://ramcloud.stanford.edu/~ongaro/thesis.pdf)     | 无     |  待完成     |
 | Raft user study    | raft      | [PDF](https://ramcloud.stanford.edu/~ongaro/userstudy/)     | 无     |  待完成     |
 | Paxos Made Practical    | paxos      | [PDF](http://www.scs.stanford.edu/~dm/home/papers/paxos.pdf)     | 无     |  待完成     |
+
+**参考：**
+
+[1] https://www.systutorials.com/3202/colossus-successor-to-google-file-system-gfs/
 
 ## Books Research
 
