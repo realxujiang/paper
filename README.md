@@ -21,7 +21,7 @@
 | Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
 | Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | [BLOG](http://itweet.cn/blog/2018/05/07/bigtable-osdi06)     |  :seedling:     |
 | Megastore: Providing Scalable, Highly Available Storage for Interactive Services   | Storage      | [PDF](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)     | 无     |  待完成     |
-| Dremel: Interactive Analysis of Web-Scale Datasets    | Database      | [PDF](https://research.google.com/pubs/archive/36632.pdf)     | 无     |  待完成     |
+| Dremel: Interactive Analysis of Web-Scale Datasets    | Database      | [PDF](https://research.google.com/pubs/archive/36632.pdf)     | 无     |  :seedling:     |
 | Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 深奥,需细研     |  :seedling:    |
 | Colossus: storage_architecture_and_challenges    | Storage      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 无     |  待完成     |
 | F1: A Distributed SQL Database That Scales    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41344.pdf)     | 无     |  待完成     |
