@@ -4,22 +4,22 @@
 
 作者：许江
 
-邮箱：realJiangXu@gmail.com
+邮箱：realJiangXu[@]gmail.com
 
 ## Paper Research
 
 我计划通过顶级的论文结合大量书籍，深入理解计算机科学技术。
 
-![data-processing-at-google](https://github.com/jikelab/paper/raw/master/research/img/data-processing-at-google.png)
+![data-processing-at-google](https://github.com/realxujiang/paper/raw/master/research/img/data-processing-at-google.png)
 
 | 论文 | 分类 | 地址 |  总结 | 备注 | 
 | :--- | :----: | :----: | :----: | :----: |
-| The Google File System - Research at Google | gfs | [PDF](https://research.google.com/archive/gfs-sosp2003.pdf) | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/20/distributed-file-system-design/) |  :seedling: |
-| MapReduce: Simplified Data Processing on Large Clusters    | MR      | [PDF](https://research.google.com/archive/mapreduce-osdi04.pdf)     | [BLOG](https://tech.jikelab.com/tech-labs/2018/04/23/mapreduce-osdi04/)     |  :seedling:    |
+| The Google File System - Research at Google | gfs | [PDF](https://research.google.com/archive/gfs-sosp2003.pdf) | [BLOG](http://www.itweet.cn/2018/04/20/distributed-file-system-design/) |  :seedling: |
+| MapReduce: Simplified Data Processing on Large Clusters    | MR      | [PDF](https://research.google.com/archive/mapreduce-osdi04.pdf)     | [BLOG](http://www.itweet.cn/2018/04/23/mapreduce-osdi04/)     |  :seedling:    |
 | Spark: Cluster Computing with Working Sets    | newMr      | [PDF](https://www.usenix.org/event/hotcloud10/tech/full_papers/Zaharia.pdf)     | 无     |  待完成     |
 | Resilient Distributed Datasets    | newMr      | [PDF](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)     | [BLOG](http://www.itweet.cn/2018/06/23/why-spark-rdd/)     |  :seedling:     |
 | Spark Research Papers    | newMr      | [PDF](https://github.com/linbojin/spark-notes/tree/master/research-papers)     | 无     |  待完成     |
-| Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | [BLOG](http://itweet.cn/blog/2018/05/07/bigtable-osdi06)     |  :seedling:     |
+| Bigtable: A Distributed Storage System for Structured Data    |  NoSQL  | [PDF](https://research.google.com/archive/bigtable-osdi06.pdf)        | [BLOG](http://www.itweet.cn/2018/05/07/bigtable-osdi06/)     |  :seedling:     |
 | Megastore: Providing Scalable, Highly Available Storage for Interactive Services   | Storage      | [PDF](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf)     | 无     |  待完成     |
 | Dremel: Interactive Analysis of Web-Scale Datasets    | Database      | [PDF](https://research.google.com/pubs/archive/36632.pdf)     | 无     |  :seedling:     |
 | Spanner: Google’s Globally-Distributed Database    | Database      | [PDF](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)     | 深奥,需细研     |  :seedling:    |
