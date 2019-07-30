@@ -84,8 +84,8 @@
 
 | 项目 | 分类 | 地址 |  总结 | 状态 | 备注 | 
 | :--- | :----: | :----: | :----: | :----: | :----: |
-| JDataFlow Platfrom | distributed | [JDP](https://fusionlab.cn) | 待完善 |  :white_check_mark: | 开源流分析平台 |
-| FusionDB    | AI & BigData     |      |     |  无     |
+| JDataFlow Platfrom | distributed | [JDP](https://fusionlab.cn) | 进行中 |  :white_check_mark: | 统一分析平台 |
+| FusionDB | Batch & Stream in Database  | [FusionDB](http://www.fusionlab.cn/zh-cn/fdb/quickstart.html)   |  进行中   |  :white_check_mark:  | 分布式数据库引擎 |
 
 
 ## WeChat
