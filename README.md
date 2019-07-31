@@ -2,7 +2,7 @@
 
 ## About me
 
-作者：许江
+作者：whoami
 
 邮箱：realJiangXu[@]gmail.com
 
