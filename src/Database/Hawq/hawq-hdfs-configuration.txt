@@ -1,0 +1,18 @@
+hawq hdfs-site.xml changed
+
+dfs.client.socket-timeout    300000000
+dfs.datanode.handler.count 60
+dfs.datanode.max.transfer.threads 40960  
+dfs.datanode.socket.write.timeout 7200000
+dfs.namenode.handler.count 600
+ipc.server.listen.queue.size 3300
+
+namenode java heap space 6G
+datanode java heap space 2G
+
+hawq  core-site.xml changed
+ipc.client.connection.maxidletime 3600000
+ipc.client.connect.timeout 300000
+
+hawq master no and ambari-server | namenode 在同一个节点上
+
