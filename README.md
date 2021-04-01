@@ -4,8 +4,6 @@
 
 作者：whoami
 
-邮箱：realJiangXu[@]gmail.com
-
 ## Paper Research
 
 我计划通过顶级的论文结合大量书籍，深入理解计算机科学技术。
